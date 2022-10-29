@@ -6,9 +6,9 @@
   "homepage": "https://github.com/Stassi/hydrolab#readme",
   "license": "MIT",
   "author": "Andreas Stassivik <andreas@stassi.net> (https://github.com/Stassi)",
+  "sideEffects": false,
   "type": "module",
   "repository": "github:Stassi/hydrolab",
-  "sideEffects": false,
   "scripts": {
     "test": "jest"
   },
