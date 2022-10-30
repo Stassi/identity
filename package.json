@@ -51,7 +51,7 @@
     },
     "preset": "ts-jest/presets/default-esm",
     "transform": {
-      "<regex_match_files": [
+      "^.+\\\\.m?[tj]sx?$": [
         "ts-jest",
         {
           "useESM": true
