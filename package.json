@@ -10,7 +10,8 @@
   "type": "module",
   "repository": "github:Stassi/hydrolab",
   "scripts": {
-    "test": "jest"
+    "jest:esm": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
+    "test": "npm run jest:esm"
   },
   "devDependencies": {
     "@jest/globals": "^29.2.2",
