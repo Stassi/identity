@@ -1,14 +1,14 @@
 {
-  "name": "hydrolab",
+  "name": "identity",
   "private": true,
   "version": "0.0.1",
   "description": "",
-  "homepage": "https://github.com/Stassi/hydrolab#readme",
+  "homepage": "https://github.com/Stassi/identity#readme",
   "license": "MIT",
   "author": "Andreas Stassivik <andreas@stassi.net> (https://github.com/Stassi)",
   "sideEffects": false,
   "type": "module",
-  "repository": "github:Stassi/hydrolab",
+  "repository": "github:Stassi/identity",
   "scripts": {
     "jest:esm": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
     "test": "npm run jest:esm"
