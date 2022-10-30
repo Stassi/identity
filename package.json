@@ -2,7 +2,7 @@
   "name": "@stassi/identity",
   "private": true,
   "version": "0.0.1",
-  "description": "",
+  "description": "Utility function returns its input.",
   "homepage": "https://github.com/Stassi/identity#readme",
   "license": "MIT",
   "author": "Andreas Stassivik <andreas@stassi.net> (https://github.com/Stassi)",
