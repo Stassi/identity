@@ -7,7 +7,7 @@ describe('identity', () => {
     true,
     1,
     '1'
-  ])('input: %p', (input: | bigint | boolean | number | string) => {
+  ])('input: %p', (input: bigint | boolean | number | string) => {
     it('should return its input', () => {
       expect(identity(input)).toBe(input)
     })
