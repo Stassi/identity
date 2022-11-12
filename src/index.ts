@@ -1,3 +1,1 @@
-import identity from './identity.js'
-
-export { identity }
+export { default as identity } from './identity.js'
